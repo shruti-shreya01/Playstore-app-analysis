@@ -16,5 +16,5 @@ The project consist of two datasets:
 4. **Power BI** - Data Visualization by making dashboard
 
 #### Project FLow
-![Project_Flow](imgs/ProjectFlow.png)
+![Project_Flow](imgs/WorkFlow.png)
 
